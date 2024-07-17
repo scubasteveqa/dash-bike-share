@@ -13,7 +13,7 @@ MarkupSafe
 numpy
 pandas
 plotly
-python-dateuti
+python-dateutil
 python-dotenv
 pytz
 requests
